@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BeeldHerkenning_Eindopdracht_Wolf_en_Auto</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BeeldHerkenning Eindopdracht Wolf en AutoML.Model\BeeldHerkenning Eindopdracht Wolf en AutoML.Model.csproj" />
+  </ItemGroup>
+
+</Project>
