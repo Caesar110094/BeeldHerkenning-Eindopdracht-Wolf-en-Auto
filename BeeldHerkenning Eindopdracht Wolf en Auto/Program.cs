@@ -9,4 +9,4 @@ namespace BeeldHerkenning_Eindopdracht_Wolf_en_Auto
             Console.WriteLine("Hello World!");
         }
     }
-}
+} 
